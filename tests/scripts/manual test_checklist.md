@@ -18,7 +18,7 @@
  - []Focus indicators visible
  - []Semantic HTML structure
 
-## **Responsive Design Checklist**
+**Responsive Design Checklist**
 
  - []**Mobile (375px)**: Layout adapts properly
  - []**Tablet (768px)**: Layout adapts properly
