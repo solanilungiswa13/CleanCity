@@ -52,5 +52,8 @@
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/solanilungiswa13/CleanCity/issues"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
   }
 }
